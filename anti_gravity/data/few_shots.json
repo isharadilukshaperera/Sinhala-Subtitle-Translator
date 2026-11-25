@@ -1,0 +1,72 @@
+[
+  {
+    "en": "Catch me.",
+    "si": "මාව අල්ලගන්න.",
+    "type": "simple"
+  },
+  {
+    "en": "All said and done, daughters will always be daughters.",
+    "si": "කොහොම වුනත්, දුවෙක් කියන්නේ දුවෙක්ම තමයි.",
+    "type": "proverb"
+  },
+  {
+    "en": "Good morning! How are you doing today?",
+    "si": "සුබ උදෑසනක්! අද කොහොමද ඔයාට?",
+    "type": "greeting"
+  },
+  {
+    "en": "Let's meet at the train station at 5 PM.",
+    "si": "හවස පහට අපි හම්බවෙමු.",
+    "type": "meeting"
+  },
+  {
+    "en": "Where are you going?",
+    "si": "ඔයා කොහෙද යන්නේ?",
+    "type": "question"
+  },
+  {
+    "en": "I don't know what happened.",
+    "si": "මම දන්නේ නෑ මොකද වුණේ කියලා.",
+    "type": "negation"
+  },
+  {
+    "en": "Don't worry about it.",
+    "si": "ඒ ගැන බය වෙන්න එපා.",
+    "type": "command"
+  },
+  {
+    "en": "Oh my God, what have you done!",
+    "si": "අනේ දෙයියනේ, ඔයා මොනවද කරලා තියෙන්නේ!",
+    "type": "exclamation"
+  },
+  {
+    "en": "She left without saying anything.",
+    "si": "එයා මොකුත් නොකියා ගියා.",
+    "type": "past_tense"
+  },
+  {
+    "en": "I'll be there tomorrow morning.",
+    "si": "මම හෙට උදේ එනවා.",
+    "type": "future"
+  },
+  {
+    "en": "If you don't hurry, we'll be late.",
+    "si": "ඔයා ඉක්මන් නොකළොත්, අපි ප්‍රමාද වෙනවා.",
+    "type": "conditional"
+  },
+  {
+    "en": "Send me the report by email.",
+    "si": "ඒ රිපෝට් එක මට ඊමේල් කරන්න.",
+    "type": "loan_words"
+  },
+  {
+    "en": "- Ready?\n- Let's go.",
+    "si": "- ලෑස්තිද?\n- යමු.",
+    "type": "multi_speaker"
+  },
+  {
+    "en": "I sincerely apologize for the inconvenience.",
+    "si": "සොරි, අපහසුතාවයක් වුණානම්.",
+    "type": "formal_to_spoken"
+  }
+]
